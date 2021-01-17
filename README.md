@@ -12,4 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # 🔖 Layout
 
+![img__CardEcommerce](https://user-images.githubusercontent.com/76889223/104856250-641dc500-58f0-11eb-9428-ab719afeb6f2.png)
+
+
 
